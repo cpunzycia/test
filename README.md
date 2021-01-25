@@ -6,7 +6,7 @@
 - Press **Log in** button
 
 **Expected result:**
- - [ ] 
+ - [ ] test
  
 ---
 ## Reuse Test Case
